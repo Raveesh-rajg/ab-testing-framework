@@ -1,4 +1,4 @@
-# expkit — an A/B testing & experimentation framework
+# Experiment Decision System | Design, validity, inference, and ship rules
 
 A Python framework covering the full experiment lifecycle: pre-registration and power
 analysis, frequentist and Bayesian inference, always-valid sequential testing, and the
