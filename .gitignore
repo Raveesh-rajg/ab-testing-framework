@@ -8,3 +8,9 @@ dist/
 build/
 .DS_Store
 .streamlit/secrets.toml
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.duckdb.wal
+.env
